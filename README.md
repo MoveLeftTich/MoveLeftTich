@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Move Left Guild Website
+- 🔭 I’m currently working on setting up the core pages of the sight
 <!--
 **MoveLeftTich/MoveLeftTich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
